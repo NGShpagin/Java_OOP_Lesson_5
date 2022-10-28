@@ -1,0 +1,2 @@
+окт. 16, 2022 12:19:59 PM Homework_Ex_1.Presenter clickButton
+INFO: 3,00+6,00i
